@@ -13,3 +13,4 @@ const stringCount = (text, sign) => {
 }
 
 // console.log(stringCount('Проверка', 5));
+
